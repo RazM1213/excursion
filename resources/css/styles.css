@@ -36,3 +36,10 @@ body {
     text-align: center;
     color: white;
 }
+
+#copyright {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
